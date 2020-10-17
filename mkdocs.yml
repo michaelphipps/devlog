@@ -1,0 +1,5 @@
+site_name: Phippsy's Devlog
+theme:
+  name: material
+  features:
+    - navigation.tabs
